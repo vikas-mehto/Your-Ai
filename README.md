@@ -10,7 +10,7 @@ It provides an interactive web interface where users can insert documents, perfo
 
 ## Demo
 
-![VectorDB demo](vectordb_demo.gif)
+![VectorDB demo](assets/vectordb_demo.gif)
 
 > 📺 **Full walkthrough video:** [Watch on YouTube](https://youtu.be/T1PRqepUZJE?si=NtL4Kg-Pew11ndVl)
 
